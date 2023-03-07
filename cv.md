@@ -37,3 +37,30 @@ Here is some examples:
 - [Jobs](https://github.com/MashkaSladkykh/jobs).
 - [Landing page](https://rawcdn.githack.com/MashkaSladkykh/OlgaDudenkova/13d7ac4e694f876fbdb9bef232f868f4f30413ca/index.html).
 - [Movie project](https://github.com/MashkaSladkykh/Movie-Project-React/tree/master).
+
+***
+### Education
+***
+
+[Front End Pro](https://certificate.ithillel.ua/view/18830499)
+**Hillel IT school**
+
+[Front End Basic](https://certificate.ithillel.ua/view/83988102)
+**Hillel IT school**
+
+[HTML & CSS masterclass](https://drive.google.com/file/d/1XMgutQG0YoVyUUQTOGTSk8spmIKs-qVP/view?usp=sharing)
+**ITEA School**
+
+Master of Public Administration
+**National Academy of Public Administration under the President of Ukraine**
+
+Bachelor's degree in "Accounting and Auditing".
+**V.I. Vernadsky Tavrida National University**
+
+***
+### Languages
+***
+
+1. Ukrainian - native
+2. russian - native
+3. English - upper-intermediate
