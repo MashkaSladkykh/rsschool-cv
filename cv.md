@@ -18,3 +18,11 @@ In this course, I gained a lot of experience in creating HTML layouts. Than I de
 improve my knowledge of front-end and started a new course in the same school - Front-end Pro.
 
 Now I have a lot of knowledges which I'd like to use in real project.
+
+***
+### Professional skills
+***
+
+HTML5, CSS, GitHub, SCSS, Gulp, BEM, Adaptive layouts, JavaScript, Jquery, DOM, BOM, OOP, WebPack, 
+REST API, MVC/MVP/MVVM architectures, React, React-Router, Figma, Redux, Redux-thunk, Tailwind,
+Formik, Jest, Material UI, AntD etc.
