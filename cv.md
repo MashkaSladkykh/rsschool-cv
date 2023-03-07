@@ -26,3 +26,14 @@ Now I have a lot of knowledges which I'd like to use in real project.
 HTML5, CSS, GitHub, SCSS, Gulp, BEM, Adaptive layouts, JavaScript, Jquery, DOM, BOM, OOP, WebPack, 
 REST API, MVC/MVP/MVVM architectures, React, React-Router, Figma, Redux, Redux-thunk, Tailwind,
 Formik, Jest, Material UI, AntD etc.
+
+***
+### My projects
+***
+
+You can see my projects on my github.
+Here is some examples:
+- [Todos](https://mashkasladkykh.github.io/Todos/).
+- [Jobs](https://github.com/MashkaSladkykh/jobs).
+- [Landing page](https://rawcdn.githack.com/MashkaSladkykh/OlgaDudenkova/13d7ac4e694f876fbdb9bef232f868f4f30413ca/index.html).
+- [Movie project](https://github.com/MashkaSladkykh/Movie-Project-React/tree/master).
