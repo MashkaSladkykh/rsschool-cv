@@ -9,7 +9,7 @@ Also, you can see my full CV by the [link] (https://drive.google.com/file/d/1jwf
 
 If you want to contact me, email me at <masha.sladky@gmail.com>
 
-***
+
 ### About
 ***
 
@@ -19,7 +19,7 @@ improve my knowledge of front-end and started a new course in the same school - 
 
 Now I have a lot of knowledges which I'd like to use in real project.
 
-***
+
 ### Professional skills
 ***
 
@@ -27,7 +27,7 @@ HTML5, CSS, GitHub, SCSS, Gulp, BEM, Adaptive layouts, JavaScript, Jquery, DOM, 
 REST API, MVC/MVP/MVVM architectures, React, React-Router, Figma, Redux, Redux-thunk, Tailwind,
 Formik, Jest, Material UI, AntD etc.
 
-***
+
 ### My projects
 ***
 
@@ -38,7 +38,7 @@ Here is some examples:
 - [Landing page](https://rawcdn.githack.com/MashkaSladkykh/OlgaDudenkova/13d7ac4e694f876fbdb9bef232f868f4f30413ca/index.html).
 - [Movie project](https://github.com/MashkaSladkykh/Movie-Project-React/tree/master).
 
-***
+
 ### Education
 ***
 
@@ -57,7 +57,7 @@ Master of Public Administration
 Bachelor's degree in "Accounting and Auditing".
 **V.I. Vernadsky Tavrida National University**
 
-***
+
 ### Languages
 ***
 
